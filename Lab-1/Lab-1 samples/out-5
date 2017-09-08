@@ -1,0 +1,12 @@
+Symbol Table
+X31=4
+
+Memory Map
+000: 1000 Error: X21 is not defined; zero used
+001: 1000 Error: X21 is not defined; zero used
+002: 1000 Error: X21 is not defined; zero used
+003: 2000 Error: Absolute address exceeds machine size; zero used
+004: 3456
+
+Warning: Module 3: X31 was defined but never used
+

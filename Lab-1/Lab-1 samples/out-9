@@ -1,0 +1,10 @@
+Symbol Table
+X21=1
+
+Memory Map
+000: 1001
+Warning: Module 1: X21 appeared in the uselist but was not actually used
+001: 2001
+002: 3001
+
+

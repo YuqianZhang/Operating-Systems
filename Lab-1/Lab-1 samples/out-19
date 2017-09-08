@@ -1,0 +1,10 @@
+Symbol Table
+
+Memory Map
+000: 9999 Error: Illegal opcode; treated as 9999
+001: 9999 Error: Illegal immediate value; treated as 9999
+002: 9999 Error: Illegal immediate value; treated as 9999
+003: 0000
+004: 3001
+
+

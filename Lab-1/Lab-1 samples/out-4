@@ -1,0 +1,11 @@
+Symbol Table
+X21=3 Error: This variable is multiple times defined; first value used
+
+Memory Map
+000: 1003
+001: 1003
+002: 1003
+003: 2000 Error: Absolute address exceeds machine size; zero used
+004: 3456
+
+

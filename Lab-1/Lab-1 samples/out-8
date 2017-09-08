@@ -1,0 +1,9 @@
+Symbol Table
+
+Memory Map
+000: 1001 Error: External address exceeds length of uselist; treated as immediate
+001: 1004 Error: External address exceeds length of uselist; treated as immediate
+002: 1222 Error: External address exceeds length of uselist; treated as immediate
+Warning: Module 1: X21 appeared in the uselist but was not actually used
+
+
